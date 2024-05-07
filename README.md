@@ -9,7 +9,7 @@ git clone https://github.com/aqeeladil/marketplace.git
 ```
 
 ```html
-cd marketplace
+cd CRM-app
 ```
 
 ```html
@@ -46,7 +46,7 @@ python3 manage.py runserver
 ![screen](shots/screen8.png)
 <br>
 ![screen](shots/screen9.png)
-<br>
+<br><br>
 
 
 
