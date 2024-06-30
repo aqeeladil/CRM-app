@@ -4,19 +4,17 @@ A CRM (customer relationship manager) web app that let users store, update and d
 <br>
 
 To run this locally, run these commands:
-```html
+```bash
 git clone https://github.com/aqeeladil/CRM-app.git
 ```
 
-```html
+```bash
 cd CRM-app
 ```
 
 ```html
 pip install -r requirements.txt
 ```
-
-<be>
 
 Now run this command below and open http://127.0.0.1:8000/ in your browser to view this project
 
