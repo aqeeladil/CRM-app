@@ -4,11 +4,11 @@ A CRM (customer relationship manager) web app that let users store, update and d
 <br>
 
 To run this locally, run these commands:
-```bash
+```html
 git clone https://github.com/aqeeladil/CRM-app.git
 ```
 
-```bash
+```html
 cd CRM-app
 ```
 
