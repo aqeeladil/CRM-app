@@ -16,12 +16,17 @@ cd CRM-app
 pip install -r requirements.txt
 ```
 
-Now run this command below and open http://127.0.0.1:8000/ in your browser to view this project
-
 ```html
+python manage.py makemigrations
+python manage.py migrate
 python manage.py runserver
 ```
+
+Now http://127.0.0.1:8000/ in your browser to view this project
+<be>
+
 <br><br>
+
 **Here is a quick image display for the whole application**
 
 ![screen](shots/screen1.png)
